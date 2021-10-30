@@ -7,3 +7,8 @@ DataSet Used: College Basketball Dataset
 Datasets for the 2013 through 2021 seasons 
 
 Kaggle Link: https://www.kaggle.com/andrewsundberg/college-basketball-dataset/version/4
+
+10/30/21
+Things to accomplish:
+1. find the outliers in this dataset
+2. figure out which columns need to be drop, too many being display in heatMap
