@@ -1,5 +1,7 @@
 # Exploratory_Data_Analysis
 
+Exploratory_Data_Analysis on College Basketball Dataset (Outlier detection and removal using percentile)
+
 Project 1: Exploratory data analysis (EDA) - This shows that you can clearly tell a story with your data. It also shows that you can collect, clean, and perform feature engineering. I recommend scraping your data or collecting it from an open api.
 
 jupyter Notebook: https://colab.research.google.com/drive/1QEDGroM2qxFvos7SqJVhlxiw_-5aaLFt?usp=sharing
